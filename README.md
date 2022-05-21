@@ -6,9 +6,7 @@ We make games for fun.
 ```
 ## Products
 - Turtle Hunt _(under development)_
-- 
-- 
-___
+
 ```
 Mail to inbox@barag.co if needed.
 © 2022 Barag Games. All rights reserved.
