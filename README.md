@@ -4,7 +4,6 @@
 ```
 We make games for fun.
 ```
-___
 ## Products
 - Turtle Hunt _(under development)_
 - 
